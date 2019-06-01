@@ -46,11 +46,13 @@ LKCD-DESSTR-COLOR|                              |0x999999
 
 LKCD-TYPE|                                      |photo_full_with_banner_down_dark
 LKCD-TITLE|                                     |我全部都要！
+LKCD-DESSTR|                                    |来自游戏修改器的诱惑
 LKCD-SUBTITLE|                                  |iGameGuardian
 LKCD-PHOTO|                                     |https://github.com/LakrAream/LakrAream.github.io/raw/master/AreamN/Resource/iGG.png
 
 LKCD-TITLE-COLOR|                               |0xFFFFFF
 LKCD-SUBTITLE-COLOR|                            |0x999999
+LKCD-DESSTR-COLOR|                              |0x999999
 
 ---> End Card
 
