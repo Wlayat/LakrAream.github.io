@@ -21,7 +21,7 @@ LKCD-TYPE|                                      |river_view_static # river_view_
 LKCD-TITLE|                                     |从 “添加” 软件源开始
 LKCD-SUBTITLE|                                  |初来乍到
 
-LKCD-PHOTO|                                     |http://repo.nepeta.me/CydiaIcon.png, http://build.frida.re/CydiaIcon.png, https://repo.chariz.io/CydiaIcon.png, https://sparkdev.me/CydiaIcon.png, https://repounclutter.coolstar.org/CydiaIcon.png, https://repo.dynastic.co/CydiaIcon.png
+LKCD-PHOTO|                                     |https://repo.chariz.io/CydiaIcon.png, https://cydia.akemi.ai/CydiaIcon.png,
 
 LKCD-TITLE-COLOR|                               |0xFFFFFF
 LKCD-SUBTITLE-COLOR|                            |0x9A9A9A
