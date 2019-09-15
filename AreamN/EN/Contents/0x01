@@ -1,18 +1,18 @@
 
 --> Begin Section |text
-常用软件源集合
+Featured Package Repos
 ---> End Section
 
 --> Begin Section |text
-本软件国内加速源
+Saily Offical Repo 
 ---> End Section
 
---> Begin Section |package_repo|https://LakrOwO.gitee.io/repo/
+--> Begin Section |package_repo|https://ouop.github.io/
 Lakr Aream
 ---> End Section
 
 --> Begin Section |text
-明美小姐姐的源 给个2C位
+KAREN'S REPO
 ---> End Section
 
 --> Begin Section |package_repo|https://cydia.akemi.ai/
@@ -20,7 +20,7 @@ Karen's Pineapple
 ---> End Section
 
 --> Begin Section |text
-移动安全专用软件源
+Security Tool
 ---> End Section
 
 --> Begin Section |package_repo|http://build.frida.re/
@@ -28,7 +28,7 @@ Frida - RE
 ---> End Section
 
 --> Begin Section |text
-精简版 BigBoss
+Simple BigBoss
 ---> End Section
 
 --> Begin Section |package_repo|http://repounclutter.coolstar.org/
@@ -36,19 +36,7 @@ BigBoss+
 ---> End Section
 
 --> Begin Section |text
-国内知名软件源
----> End Section
-
---> Begin Section |package_repo|https://apt.abcydia.com/
-ABCydia/雷锋源
----> End Section
-
---> Begin Section |text
-下面是软件的默认源
----> End Section
-
---> Begin Section |package_repo|https://repo.chariz.io/
-Chariz
+Default Repos
 ---> End Section
 
 --> Begin Section |package_repo|https://repo.nepeta.me/
@@ -60,7 +48,7 @@ Dynastic
 ---> End Section
 
 --> Begin Section |text
-Uncover默认源
+Uncover Default
 ---> End Section
 
 --> Begin Section |package_repo|https://apt.bingner.com/
@@ -68,7 +56,7 @@ Bingner/Elucubratus
 ---> End Section
 
 --> Begin Section |text
-Chimera默认源
+Chimera Default
 ---> End Section
 
 --> Begin Section |package_repo|https://repo.chimera.sh/
@@ -76,5 +64,5 @@ Chimera Repo
 ---> End Section
 
 --> Begin Section |text
-如果你希望你的软件源出现在这里可以用Twitter联系我@Lakr233。当然，请告诉我你的理由！ouo
+Contact @Lakr233 to featur your repo our you can make a new home page.
 ---> End Section

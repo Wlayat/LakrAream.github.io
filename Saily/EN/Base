@@ -20,9 +20,9 @@
 
 # RECOMMEND LINES
 LKCD-TYPE|                                      |photo_full
-LKCD-TITLE|                                     |在这里，重新定义。
-LKCD-SUBTITLE|                                  |欢迎来到全新的 Tweak Store
-LKCD-DESSTR|                                    |欢迎来到全新的 Tweak Store|在这里，修改系统，安装应用，无所不能。
+LKCD-TITLE|                                     |redefine is here
+LKCD-SUBTITLE|                                  |Welcome to Saily Store
+LKCD-DESSTR|                                    |Welcome to Saily Store|Do any thing you want here.
 LKCD-PHOTO|                                     |./Resource/welcome.png
 
 # OPRION LINES
@@ -37,8 +37,8 @@ LKCD-CONTENTS|                                  |./Contents/0x01
 --> Begin Card
 
 LKCD-TYPE|                                      |photo_full
-LKCD-TITLE|                                     |Dark Night - 黑暗模式
-LKCD-SUBTITLE|                                  |自定义的生活
+LKCD-TITLE|                                     |Dark Night - Dark Mode
+LKCD-SUBTITLE|                                  |my color lift
 LKCD-PHOTO|                                     |./Resource/night.png
 
 LKCD-TITLE-COLOR|                               |0xFFFFFF
@@ -50,8 +50,8 @@ LKCD-CONTENTS|                                  |./Contents/0x02
 --> Begin Card
 
 LKCD-TYPE|                                      |photo_half_with_banner_down_light
-LKCD-TITLE|                                     |OpenSSH 密码与安全|掌握你的设备。
-LKCD-SUBTITLE|                                  |出来乍到必备教学
+LKCD-TITLE|                                     |OpenSSH Setup|SE - iOS
+LKCD-SUBTITLE|                                  |MUST READ
 LKCD-DESSTR|                                    |Written By Lakr Aream
 LKCD-PHOTO|                                     |./Resource/ssh.png
 
@@ -59,20 +59,5 @@ LKCD-TITLE-COLOR|                               |0x000000
 LKCD-SUBTITLE-COLOR|                            |0x999999
 LKCD-DESSTR-COLOR|                              |0x999999
 LKCD-CONTENTS|                                  |./Contents/0x03
-
----> End Card
-
---> Begin Card
-
-LKCD-TYPE|                                      |photo_half_with_banner_down_light
-LKCD-TITLE|                                     |Renet - 连个锤子|应用无法联网一键修复
-LKCD-SUBTITLE|                                  |专为🇨🇳的iPhone和iPad设计
-LKCD-DESSTR|                                    |Written By Lakr Aream
-LKCD-PHOTO|                                     |./Resource/renet.png
-
-LKCD-TITLE-COLOR|                               |0x000000
-LKCD-SUBTITLE-COLOR|                            |0x0AAADD
-LKCD-DESSTR-COLOR|                              |0x999999
-LKCD-CONTENTS|                                  |./Contents/0x04
 
 ---> End Card
