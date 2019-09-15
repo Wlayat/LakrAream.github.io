@@ -1,0 +1,45 @@
+# This is an example of news repo card major content.
+# Please strictly follow the example.
+
+# enum card_type: Int {
+
+#   case photo_full                             = 0x101
+#   case photo_full_with_banner_down_dark       = 0x102
+#   case photo_half_with_banner_down_light      = 0x111
+#   case river_view_animate                     = 0x201
+#   case river_view_static                      = 0x202
+
+# }
+
+# Every value here is optional.
+# "|" After/In content means "\n"
+
+--> Begin Card
+
+# RECOMMEND LINES
+LKCD-TYPE|                                      |river_view_static # river_view_animate is bugy
+LKCD-TITLE|                                     |From Adding Package Repos
+LKCD-SUBTITLE|                                  |START NOW
+
+LKCD-PHOTO|                                     |https://repo.chariz.io/CydiaIcon@3x.png, https://cydia.akemi.ai/CydiaIcon.png, ./Resource/App.png, https://repo.dynastic.co/CydiaIcon@3x.png
+
+LKCD-TITLE-COLOR|                               |0xFFFFFF
+LKCD-SUBTITLE-COLOR|                            |0x9A9A9A
+LKCD-CONTENTS|                                  |./Contents/0x01
+
+---> End Card
+
+--> Begin Card
+
+LKCD-TYPE|                                      |photo_half_with_banner_down_light
+LKCD-TITLE|                                     |Ultrasound|By AppleBetas
+LKCD-SUBTITLE|                                  |Featured Tweaks
+LKCD-DESSTR|                                    |A Hole New Look Volume HUD
+LKCD-PHOTO|                                     |./Resource/Ultrasound.png
+
+LKCD-TITLE-COLOR|                               |0x000000
+LKCD-SUBTITLE-COLOR|                            |0x999999
+LKCD-DESSTR-COLOR|                              |0x999999
+LKCD-CONTENTS|                                  |./Contents/0x02
+
+---> End Card

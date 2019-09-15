@@ -1,0 +1,16 @@
+# This is an example of news repo.
+# The " " after first "|" are automatically ignored
+
+# Could be only at the beginning of the line.
+
+# RECOMMEND LINES
+LKRP-NAME|                          |Winker World
+LKRP-PROVIDE-LANGUAGE|              |zh-Hans                        # For future uses.
+LKRP-TITLE|                         |A Welcome From Saily Team
+LKRP-SUBTITLE|                      |Handbook maybe?
+LKRP-ICON|                          |https://github.com/LakrAream/LakrAream.github.io/raw/master/Saily/Resource/icon.png
+
+# OPRION LINES
+# Optional property will implement later and may not effective in nearly versions.
+# LKRP-TITLE-COLOR|                   |0x000000
+# LKRP-SUBITLE-COLOR|                 |0x0AAADD

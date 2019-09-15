@@ -1,0 +1,39 @@
+# Example Content
+
+# enum card_detail_type: Int {
+
+#    case text                                   = 0x101
+#    case text_inherit_saying                    = 0x102
+#    case photo                                  = 0x201
+#    case photo_with_description                 = 0x202
+#    case news_repo                              = 0x301
+#    case package_repo                           = 0x302
+#    case package                                = 0x303
+
+# }
+
+--> Begin Section |text
+Hi, My name is Lakr Aream.
+//BLANK-LINE//
+      Did you remember Cydia?
+//BLANK-LINE//
+      There is a brown box which carried me years of wonderful memories. From iPhone 3Gs to iPhoneX, from iOS4 to iOS12, Cydia is an integral part of jailbreaking. Here, we pay tribute to our ancestors.
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/Jailbroken-iPhone.png|
+Cydia is running well under 256mb RAM
+---> End Section
+
+--> Begin Section |text
+      But with the development of the hardware performance of the device along people's aesthetic changes, Cydia feels like its time to retired. Today, our community got a lot of new products such as Zebra, Sileo. Saily is one of them.//BLANK-LINE//
+      We worked hard on it and designed it with love. We had already rebuilt this project entirely for about 4 times, streamlining the code thousands of lines, optimizing the data model more than ten times. Also we optimized the UI frame rate nearly one hundred times, only to deliver the ultimate user experience.
+---> End Section
+
+--> Begin Section |text|
+      The software follows the iOS development design principles and relies on APT/DPKG to be compatible with Cydia. If you encounter any problems during use, you are welcome to get support in the software GitHub page. This software is completely open source and free.//BLANK-LINE//
+      Best wishes.
+//BLANK-LINE//
+2019.9
+Lakr Aream - @Lakr233
+---> End Section
+
