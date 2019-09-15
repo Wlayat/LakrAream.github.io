@@ -1,0 +1,42 @@
+# Example Content
+
+# enum card_detail_type: Int {
+
+#    case text                                   = 0x101
+#    case text_inherit_saying                    = 0x102
+#    case photo                                  = 0x201
+#    case photo_with_description                 = 0x202
+#    case news_repo                              = 0x301
+#    case package_repo                           = 0x302
+#    case package                                = 0x303
+
+# }
+
+--> Begin Section |text
+Bonjour, Mon nom est Lakr Aream.
+//BLANK-LINE//
+      Vous vous rappelez de Cydia?
+//BLANK-LINE//
+      Il y a un carton cassé brun qui m'a procuré des Années de souvenirs merveilleux. Depuis l'iPhone 3Gs jusqu'à l'iPhone X. Depuis iOS4 à iOS12. Cydia est une partie intégrante du jailbreak. Ici nous rendons hommage à nos ancêtres.
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/Jailbroken-iPhone.png|
+Cydia tourne à merveille avec 256mb RAM
+---> End Section
+
+--> Begin Section |text
+      Mais avec le développement des performances matériel des appareils ainsi que les goûts esthétique des gens qui ont évolué, Cydia vu son heure arrivé. Aujourd'hui, notre communiqué possède plusieurs nouveaux produits tel que Sileo ou Zebra. Saily en fait parti.
+      //BLANK-LINE//
+      Nous avons travaillé dure sur ce projet et nous l'avons désigné avec amour. Ce projet a été reconstruit entièrement 4 fois, nettoyant le code d'un millier de lignes de code, optimisant les données une dizaine de fois. Aussi nous avons optimisé la cadence d'image environ une centaine de fois, tout cela pour fournir l'expérience ultime pour l'utilisateur.
+---> End Section
+
+--> Begin Section |text|
+      Ce programme suit la philosophie du développement iOS et Android base sur APT/DPKG pour être compatible avec Cydia. Si vous découvrez des problèmes durant l'utilisation de saily, vous êtes le bienvenu dans la page GitHub de saily. Ce programme est entièrement open source et gratuit.
+      //BLANK-LINE//
+      Meilleures vœux.
+//BLANK-LINE//
+2019.9
+Lakr Aream - @Lakr233
+Traduction : Samilop "Cimmerian" Iter -@Cimmerian_Iter
+---> End Section
+

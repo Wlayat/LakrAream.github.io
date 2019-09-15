@@ -1,0 +1,67 @@
+--> Begin Section |text_inherit_saying|SE - iOS!|
+Nous avons travaillé à la sueur de notre peau pour votre jailbreak.
+---> End Section
+
+--> Begin Section |text
+Mais est-ce sécurisé?
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/corellium.jpg|
+VM iOS -> Corellium
+---> End Section
+
+--> Begin Section |text
+Réponse:
+//BLANK-LINE//
+      Après le jailbreak, votre appareil est encore sûre. Les applications téléchargées depuis l'App store marchent encore dans leurs propres enclos, ne se voient pas entre eux et ne se connaissent pas.
+//BLANK-LINE//
+      Cependant votre mot de passe administrateur OpenSSH de votre appareil nécessite votre attention. Dans le cas où Openssh est installé le mot de passe par défaut est le nom de code des première génération d'iPhone: "alpine". Vous devez le modifier.
+//BLANK-LINE//
+      Paris eux, jailbreak maintenue par Coolstar comme Electra et Chimera activent Openssh par défaut tandis que d'autre comme uncover ne l'activent pas par défaut.
+---> End Section
+
+--> Begin Section |text_inherit_saying|
+SSH - ALPINE
+---> End Section
+
+--> Begin Section |text
+Alors comment on change le mot de passe? Premièrement vous devez ajouter cette source
+//BLANK-LINE//
+---> End Section
+
+--> Begin Section |package_repo|https://repo.packix.com/
+Packix
+---> End Section
+
+--> Begin Section |text
+      Et installer NewTerm 2
+//BLANK-LINE//
+---> End Section
+
+--> Begin Section |package|ws.hbang.newterm
+Le plus geek des utilitaires pour vous.
+---> End Section
+
+--> Begin Section |text
+Et insérez les lignes de commande successivement ci dessous
+//BLANK-LINE//
+        login root
+        alpine
+        passwd
+        (Nécessaire deux fois pour confirmer)
+        passwd mobile
+        (Nécessaire deux fois pour confirmer)
+//BLANK-LINE//
+//BLANK-LINE//
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/ssh_example.jpg|
+Exemple de réponse
+---> End Section
+
+--> Begin Section |text
+
+//BLANK-LINE//
+@Lakr233 - 2019.6.4
+Traduction : @Cimmerian_Iter
+---> End Section

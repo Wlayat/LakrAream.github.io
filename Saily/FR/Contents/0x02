@@ -1,0 +1,51 @@
+--> Begin Section |text
+Un nouveau look partout
+//BLANK-LINE//
+      Theming avec Saily
+---> End Section
+
+--> Begin Section |photo|./Resource/colorsheet.png|
+---> End Section
+
+--> Begin Section |text
+      Dans le code de Saily, il y a un fichier appelé "ColorSheetCommon.swift" qui définit la couleur du thème de l'utilisateur et aussi pose les fondations pour des sujet partagé entre utilisateur. En ce moment nous supportons seulement deux thèmes ce qui signifie que vous pouvez choisir le nouveau thème dans le centre de contrôle.
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/design.png|
+En plein design
+---> End Section
+
+--> Begin Section |text
+      Comment changer la couleur des thèmes? Pour l'instant dans cette version nous supportons 2 thèmes: software white et elegant black. Le thème que vous voyez actuellement est probablement soft white. Alors comment on choisit elegant black ? Veuillez switcher vers la seconde page - ORGANISER.
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/ManageTab.jpeg|
+Au fond
+---> End Section
+
+--> Begin Section |text
+//BLANK-LINE//
+Appuyer sur ce petit bouton
+//BLANK-LINE//
+//BLANK-LINE//
+---> End Section
+
+--> Begin Section |photo_with_description|./Resource/SettingButton.jpeg|
+Vous avez peut être besoin de glisser vers le bas (scroller).
+---> End Section
+
+--> Begin Section |text
+      Dans la page qui s'ouvre vous pouvez la colonne de l'interface interactive. Sélectionnez "Apparance - Activer le mode nuit" et cliquez sur redémarrer. Vous allez voir un nouveau look. Bien sûre, pour retourner en mode clair vous avez besoin de switcher le mode et de redémarrer.
+---> End Section
+
+--> Begin Section |text
+//BLANK-LINE//
+//BLANK-LINE//
+Designer：@Lakr233 pour l'application et @xerusdesign pour l'icône de saily.
+Traduction : @Cimmerian_Iter
+//BLANK-LINE//
+👏
+//BLANK-LINE//
+2019.9
+//BLANK-LINE//
+---> End Section
